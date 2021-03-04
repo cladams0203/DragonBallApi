@@ -1,10 +1,10 @@
 {
-  "name": "DragonBallApi",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "name": "dragon-ball-api",
+  "version": "1.0.0",
+  "description": "Api for the Dragon Ball TV Series",
+  "author": "Chris Adams",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -24,9 +24,14 @@
     "@nestjs/common": "^7.6.13",
     "@nestjs/core": "^7.6.13",
     "@nestjs/platform-express": "^7.6.13",
+    "@nestjs/swagger": "^4.7.15",
+    "@nestjs/typeorm": "^7.1.5",
+    "pg": "^8.5.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^6.6.6"
+    "rxjs": "^6.6.6",
+    "swagger-ui-express": "^4.1.6",
+    "typeorm": "^0.2.31"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.5.6",
