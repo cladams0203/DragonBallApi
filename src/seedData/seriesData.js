@@ -726,5 +726,383 @@ export const data = {
         'Dragon Ball Super',
       ],
     },
+    {
+      name: 'Gohan',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d9/Ultimate_Gohan_full.png/revision/latest/scale-to-width-down/175?cb=20191004025226',
+      description:
+        "Son Gohan (孫そん悟ご飯はん Son Gohan) is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series' primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan. He is named after Goku's adoptive grandfather, Gohan.\n \n Unlike his father, Gohan lacks a passion for fighting (although, he does possess a strong power within him) and prefers to do so only when his loved ones are threatened.[6]  Nevertheless, Gohan fights alongside the Dragon Team in the defense of Earth for much of his life.",
+      debut: 'The New Threat',
+      race: '1/2 Saiyan-1/2 Human-type Earthling',
+      gender: 'Male',
+      height: '5\'9"',
+      weight: '134 lbs',
+      occupation: "Professor's Assistant",
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Goten',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/29/GotenNV.png/revision/latest/scale-to-width-down/350?cb=20191108050056',
+      description:
+        "Son Goten (孫そん悟ご天てん Son Goten) is the youngest son of Goku and his wife Chi-Chi, making him a Saiyan and Earthling hybrid. Goten is Gohan's younger brother and Trunks' best friend.",
+      debut: 'I am Saiyaman',
+      race: '1/2 Saiyan-1/2 Human-type Earthling',
+      gender: 'Male',
+      height: '4\'0"',
+      weight: '57 lbs',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Vegeta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/25/Vegeta_DBZ_Ep_222_002.png/revision/latest/scale-to-width-down/217?cb=20191124215151',
+      description:
+        "Vegeta (ベジータ Bejīta), more specifically Vegeta IV (ベジータ四世 Bejīta Yonsei), recognized as Prince Vegeta (ベジータ王子 Bejīta Ōji) is the prince of the fallen Saiyan race and one of the main characters of the Dragon Ball series.\n \n Regal, egotistical, and full of pride, Vegeta was once a ruthless, cold-blooded warrior and outright killer,[7] but later abandons his role in the Frieza Force, instead opting to remain and live on Earth. His character evolves from villain, to anti-hero, then to hero through the course of the series, repeatedly fighting alongside the universe's most powerful warriors in order to protect his new home and surpass Goku in power.",
+      debut: "Gohan's Rage",
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '5\'5"',
+      weight: '123 lbs',
+      occupation: 'Prince of Planet Vegeta',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Trunks',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/37/Trunks_DBZ_Ep_213_001.png/revision/latest/scale-to-width-down/265?cb=20170919042310',
+      description:
+        'Trunks (トランクス Torankusu) is the Earthling and Saiyan hybrid son of Bulma and Vegeta, and the older brother of Bulla.',
+      debut: 'The Androids Appear',
+      race: '1/2 Saiyan-1/2 Human-type Earthling',
+      gender: 'Male',
+      height: '4\'2"',
+      weight: '66 lbs',
+      occupation: 'President of Capsule Corporation',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Future Trunks',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c8/Trunks_DBZ_Ep_131_001.png/revision/latest/scale-to-width-down/350?cb=20191124212643',
+      description:
+        "Future Trunks (未み来らいのトランクス Mirai no Torankusu) is the Saiyan and Earthling hybrid son of Vegeta and Bulma from an alternate future. By the time Present Trunks was born, the timeline had been altered by Future Trunks' and Cell's trips to the past. Therefore, the two Trunks had completely different lives (as opposed to those who lived before the Time Machines arrived, who lived exactly the same lives as their counterparts until the point at which the two timelines diverge, three years before the androids arrived).\n \n Well-mannered, serious and very cautious, Trunks hails from an alternate timeline in which Future Androids 17 and 18 murdered the Dragon Team and proceeded to create apocalyptic hell on Earth. Trunks is trained by Future Gohan as a teenager and becomes a gifted fighter, swordsman and a Super Saiyan, which are traits that aid him greatly in the battle against the Androids after traveling back in time in order to save his own future.\n \n Years later, Future Trunks would return in Dragon Ball Super, this time fighting against a mysterious entity referred to as Goku Black (and later his counterpart) wreaking havoc in the future. In the end, Trunks (with the help of Goku and Vegeta) neutralizes the threat, though unfortunately, Zamasu not only survives the ordeal, but he becomes an even bigger threat, to the point that Future Zeno was needed to erase him. Trunks himself is one of the three survivors and is currently living in another future timeline where another Future Trunks exists - created in the anime by Whis warning Future Beerus ahead of time to eliminate the soon-to-be rogue Supreme Kai, while in the manga Trunks and Mai travel to their timeline's past and prevent Future Shin's death with the blessing of Beerus as it will save his counterpart, thus eliminating the possibility of the Project Zero Mortals.",
+      debut: 'The Myserious Youth',
+      race: '1/2 Saiyan-1/2 Human-type Earthling',
+      gender: 'Male',
+      height: '5\'7"',
+      weight: '132 lbs',
+      occupation: 'Assistant to the Supreme Kai of Time',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Mr.Satan',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/6a/Mr.SatanCellGamesNV.png/revision/latest/scale-to-width-down/334?cb=20100509193251',
+      description:
+        "Mr. Satan (ミスター・サタン Misutā Satan), also known as Hercule Satan in the Funimation dub, is the World Martial Arts Champion and the Earth's protector. His real name is Mark (マーク Māku).",
+      debut: "Dende's Dragon",
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '6\'2"',
+      weight: '208 lbs',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Videl',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/29/Videl_DBZ_Ep_207_001.png/revision/latest/scale-to-width-down/332?cb=20170917055009',
+      description:
+        'Videl (ビーデル Bīderu) is the daughter of Mr. Satan and Miguel, the wife of Gohan and the mother of Pan.',
+      debut: 'Gohan Goes to High School',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '5\'2"',
+      weight: '103 lbs',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Android 18',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/4b/Android_18_DBZ_Ep_148_001.png/revision/latest/scale-to-width-down/316?cb=20200123055944',
+      description:
+        "Android 18 (人造人間１８号 Jinzōningen Jū Hachi-Gō, lit. \"Artificial Human No. 18\"), originally named Lazuli (ラズリ Razuri)[4] when she was an ordinary human, is the twin sister of Android 17 and Dr. Gero's eighteenth android creation, designed to serve Gero's vendetta against Goku. While her interests do not initially deviate from this expectation, her curiosity to activate Android 16, in spite of Gero's orders not to do so, leads Android 17 to take it upon himself to murder Gero. Eventually, Android 18 becomes a member of the Z Fighters, as well as the wife of Krillin and the mother of their daughter Marron.",
+      debut: 'Nightmare Comes True',
+      race: 'Human-type Earthling(Android)',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Dende',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/0d/DendeIllFightToo.png/revision/latest/scale-to-width-down/350?cb=20110906232642',
+      description:
+        "Dende (デンデ Dende) is a Namekian with a unique gift that allows him to heal others. He is the 108th son of Grand Elder Guru. On Goku's request, Dende becomes the Earth's Guardian in Kami's place. He continues his role as Guardian for the rest of the series, helping the protagonists during their adventures whenever he can.",
+      debut: 'Defying Orders',
+      race: 'Namekian',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Guardian of Earth',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'King Kai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/61/KingKaiNV.png/revision/latest/scale-to-width-down/350?cb=20200219185209',
+      description:
+        'King Kai (界かい王おう様さま Kaiō-sama, lit. "King of the Worlds"), or North Kai (北きたの界かい王おう Kita no Kaiō, lit. "North King of the Worlds"), is the king of the North Area of Universe 7. He is Goku\'s martial arts teacher and mentor. He later taught Krillin, Yamcha, Tien Shinhan, Piccolo, and Chiaotzu.',
+      debut: 'The End of Snake Way',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'North Kai of Universe 7',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Kibito',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/ce/Kibito-0.jpg/revision/latest/scale-to-width-down/350?cb=20170521172437',
+      description:
+        'Kibito (キビト Kibito) is the Attendant Supreme Kai of Universe 7.',
+      debut: 'Big Trouble, Little Trunks',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Assistant Supreme Kai',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Old Kai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/0a/Old_Kai_DBZ_Ep_250_001.png/revision/latest/scale-to-width-down/350?cb=20171019235132',
+      description:
+        'Old Kai (老界王神 Rō Kaiōshin, lit. "Old God of the Kings of the Worlds") is a deity from the fifteenth generation of Kai, advising the current Supreme Kai. In the Japanese anime, he is usually called the Great Lord Kaioshin (大界王神 様 Dai Kaiōshin Sama, lit. "Great God of the Kings of the Worlds").',
+      debut: 'Out from the Broken Sword',
+      race: 'Core Person/Witch hybrid',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Raditz',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7f/Raditz_DBZ_Ep_02_002.png/revision/latest/scale-to-width-down/218?cb=20170920223631',
+      description:
+        'Raditz (ラディッツ Radittsu), also known as "Raditz the Runt", is a mid-class Saiyan warrior, the biological brother of Goku and the eldest son of Bardock and Gine. He is one of the few remaining full-blooded Saiyans left alive after his homeworld was destroyed. He seeks out Goku in order to recruit him into the Frieza Force to aid in conquering planets.',
+      debut: 'The New Threat',
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Mid-level Soldier',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Nappa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c3/Nappa_DBZ_Ep_24_002.png/revision/latest/scale-to-width-down/350?cb=20170918143817',
+      description:
+        "Nappa (ナッパ Nappa) is a mid-class Saiyan warrior from Planet Vegeta, and Vegeta's partner in combat. Prior to the destruction of Planet Vegeta, Nappa was the general of the Saiyan Army and aid/partner to the young prince, Vegeta. After his race's demise, he, along with Vegeta and Raditz, worked as soldiers directly under Frieza, which led him to Earth.\n \n Nappa is the secondary antagonist of the Vegeta Saga.",
+      debut: "Gohan's Rage",
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '6\'10"',
+      weight: '',
+      occupation: 'General',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Frieza',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85.jpg/revision/latest/scale-to-width-down/333?cb=20201227003621',
+      description:
+        "Frieza (フリーザ Furīza) is the emperor of Universe 7, who controlled his own imperial army and is feared for his ruthlessness and power. He is the descendant of Chilled, the second son of King Cold, the younger brother of Cooler, and the father of Kuriza. Frieza is the main antagonist of the entire franchise as his actions led to multiple conflicts and is even considered Goku's greatest foe and arch nemesis. He has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. Recently, he has been chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he is revived and recovers his title as Emperor of Universe 7.\n \n Frieza is the main antagonist of the Namek, Frieza, Trunks, Gods of the Universe, and Golden Frieza Sagas. He is also the main antagonist of the Dragon Ball Z: Bardock - The Father of Goku special and Dragon Ball Z: Resurrection ‘F’ film. He later serves as a villainous protagonist in the Universe Survival Saga and secondary antagonist in the DBS : Broly Saga.",
+      debut: 'Brood of Evil',
+      race: 'Frieza Race(mutant)',
+      gender: 'Male',
+      height: '5\'2"',
+      weight: '',
+      occupation: 'Emperor',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Zarbon',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/0f/Zarbon_DBZ_Ep_56_002.png/revision/latest/scale-to-width-down/239?cb=20180804213413',
+      description:
+        "Zarbon (ザーボン Zābon) is a member of the Frieza Force. He is a cunning warrior that serves alongside Dodoria as one of Frieza's top two highest ranking Generals and right-hand men.",
+      debut: 'Brood of Evil',
+      race: "Zarbon's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: "Freiza's Aide",
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Dodoria',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/fd/Dodoria_DBZ_Ep_49_002.png/revision/latest/scale-to-width-down/350?cb=20170827051359',
+      description:
+        "Dodoria (ドドリア Dodoria) is a member of the Frieza Force. He is a ruthless warrior that serves alongside Zarbon as one of Frieza's top two highest ranking Generals and right-hand men.",
+      debut: 'Brood of Evil',
+      race: "Dodoria's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: "Freiza's Aide",
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Captain Ginyu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/6e/Captain_Ginyu_DBZ_Ep_69_007.png/revision/latest/scale-to-width-down/348?cb=20170924160436',
+      description:
+        'Ginyu (ギニュー Ginyū), referred to as Captain Ginyu (ギニュー隊長 Ginyū-taichō) by his subordinates, is the strict but loyal captain of the elite mercenary platoon, the eponymous Ginyu Force. Ginyu is an honorable, yet merciless fighter who constantly strikes poses. He possesses the ability to swap bodies.\n \n Captain Ginyu is the main antagonist of the Captain Ginyu Saga and the secondary antagonist of the Frieza Saga. In the anime, he also returns as a secondary antagonist in the Golden Frieza Saga.',
+      debut: "Bulma's Big Day",
+      race: "Ginyu's race(mutant)",
+      gender: 'Male',
+      height: '6\'7"',
+      weight: '',
+      occupation: 'Captain',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Garlic Jr.',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/06/GARLIC_JR_MUG.png/revision/latest/scale-to-width-down/350?cb=20140802092247',
+      description:
+        'Garlic Jr. (ガーリックＪｒジュニア Gārikku Junia, lit. "Garlic Junior") is the main antagonist in Dragon Ball Z: Dead Zone. Though he was defeated in Dead Zone, he reappears as the main antagonist in the Garlic Jr. Saga.',
+      debut: 'The Heavens Tremble',
+      race: 'Makyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z'],
+    },
+    {
+      name: 'Dr. Gero',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/71/Dr.GeroEp130.png/revision/latest/scale-to-width-down/350?cb=20160922141535',
+      description:
+        'Dr. Gero (ドクター・ゲロ Dokutā Gero, lit. "Doctor Gero"), also known as Android 20 (人造人間２０号 Jinzōningen Niju-Gō, lit. "Artificial Human No. 20"), is a supporting antagonist in the Dragon Ball franchise, appearing in the Dragon Ball manga and the animes Dragon Ball Z and Dragon Ball GT. He is a genius scientist who is the mastermind behind the Red Ribbon Androids, chief amongst them the bio-organic Cell.\n \n Dr. Gero is the main antagonist of the Androids Saga.',
+      debut: 'The Androids Appear',
+      race: 'Mechanical-type Android',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Scientist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT'],
+    },
+    {
+      name: 'Android 17',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/81/Android_17_DBZ_Ep_148_014.png/revision/latest/scale-to-width-down/211?cb=20200123055718',
+      description:
+        "Android 17 (人造じんぞう人間にんげん１７号ごう Jinzōningen Jū Nana-Gō, lit. \"Artificial Human No. 17\"), Lapis (ラピス Rapisu) when he was an ordinary human,[2] is the twin brother of Android 18 and Dr. Gero's seventeenth android creation, designed to serve Gero's vendetta against Goku. Despite his interests not initially deviating from this expectation, Android 17 takes it upon himself to kill Dr. Gero, who is uncooperative with Android 18's curiosity in activating Android 16 and deemed inferior by 17.\n \n Android 17 makes a return a decade later in Dragon Ball Super, working as a national park ranger on a remote island, preserving wildlife from poachers. He is married and has a child, with two more children being adopted. He is asked by Goku to join Team Universe 7 in the Tournament of Power and due to Goku and Frieza's sacrifice to take out Jiren, he is left as the sole fighter remaining by the end of the tournament and the one who makes the wish on the Super Dragon Balls.",
+      debut: 'Nightmare Comes True',
+      race: 'Human-type Earthling(Android)',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Android 16',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f6/Android_16_DBZ_Ep_134_001.png/revision/latest/scale-to-width-down/182?cb=20171021011302',
+      description:
+        'Android 16 (人造人間１６号 Jinzōningen Jū Roku-Gō, lit. "Artificial Human No. 16") is Dr. Gero\'s sixteenth Android creation. He was initially designed to serve Gero\'s vendetta against Goku, who overthrew the Red Ribbon Army as a child but is later deemed unfit for activation.',
+      debut: "Goku's Assassin",
+      race: 'Mechanical-type Android',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Robotic Assassin',
+      series: ['Dragon Ball Z', 'Dragon Ball GT'],
+    },
+    {
+      name: 'Cell',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b4/Cell_DBZ_Ep_177_001.png/revision/latest/scale-to-width-down/243?cb=20170921030318',
+      description:
+        'Cell (セル Seru) is the ultimate creation of Dr. Gero, designed via cell recombination using the genetics of the greatest fighters that the remote tracking device could find on Earth. The result was a "perfect warrior", possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold.\n \n He was one of the few Red Ribbon Androids not directly completed by Dr. Gero, instead being completed by Dr. Gero\'s Supercomputer in an alternate timeline. He is the main antagonist of the Imperfect Cell, Perfect Cell, and Cell Games Sagas.',
+      debut: 'The Reunion',
+      race: 'Bio Android',
+      gender: '',
+      height: '7\'0"',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Pikkon',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b1/Pikkon_DBZ_Ep_198_003.png/revision/latest/scale-to-width-down/296?cb=20170916231851',
+      description:
+        'Pikkon, known as Paikuhan (パイクーハン Paikūhan) in the original Japanese version, is a fighter of the Other World who first appears in the Other World Tournament. He does not appear in the original Dragon Ball manga. Acting as a substitute for Piccolo in terms of appearance, role, and personality, he is introduced in the filler episodes of Dragon Ball Z, and later appears in the movie Dragon Ball Z: Fusion Reborn.',
+      debut: 'Warriors of the Dead',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z'],
+    },
+    {
+      name: 'Babidi',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/5c/BabidiDBZ.png/revision/latest/scale-to-width-down/350?cb=20091210131219',
+      description:
+        'Babidi (バビディ Babidi) is an evil alien wizard and the son of Bibidi.\n \n Babidi is the main antagonist of the Babidi Saga and the secondary antagonist of the Majin Buu Saga.',
+      debut: "The Wizzard's Curse",
+      race: "Bibidi's race (Alien-type)",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Evil Wizard',
+      series: ['Dragon Ball Z', 'Dragon Ball GT'],
+    },
+    {
+      name: 'Dabura',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/82/Dabura_DBZ_Ep_225_001.png/revision/latest/scale-to-width-down/230?cb=20180121202506',
+      description:
+        "Dabura (ダーブラ Dābura) is the king of the Demon Realm. Existing for thousands of years, Dabura was a demon king placed under the wizard Babidi's control by a spell, becoming his right-hand man before the appearance of Majin Buu and thus doing his bidding.\n \n Dabura is a secondary antagonist in the Majin Buu Saga",
+      debut: "The Wizzard's Curse",
+      race: 'Demon Realm race',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'King of the Demon Realm',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Majin Buu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/47/Good_Buu.png/revision/latest/scale-to-width-down/350?cb=20170224202329',
+      description:
+        'Good Buu (魔ま人じんブウ（善ぜん） Majin Bū (Zen), lit. "Demon Person Boo (Good)"), also known mainly as Majin Buu, is the result of the Innocent Buu using fission to split into good and evil halves. He would go on to become a member of the Z Fighters and live with Mr. Satan. After the battle against the pure Majin Buu, Buu is referred to as Buu instead of Majin Buu and to the world he becomes Mr. Buu.\n \n Good Buu possesses the Grand Supreme Kai (大だい界かい王おう神しん Dai Kaiōshin, lit. "Great God of the Kings of the Worlds*) as part of his being and eventually temporarily awakened this part of himself.',
+      debut: 'The Evil of Men',
+      race: 'Majin / Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
   ],
 };
