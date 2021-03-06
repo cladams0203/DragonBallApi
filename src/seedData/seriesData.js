@@ -1104,5 +1104,173 @@ export const data = {
       occupation: 'Martial Artist',
       series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
     },
+    {
+      name: 'Giru',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/89/Giru.Ep.16.GT.png/revision/latest/scale-to-width-down/350?cb=20110902221306',
+      description:
+        'Giru (ギル Giru, Gill), originally known as T2006 or DB4649T2006RS, is a Machine Mutant that accompanies Goku, Pan, and Trunks on their quest to find the Black Star Dragon Balls. He is best friends with Pan; however, he is frequently the recipient of a lot of abuse (both verbal and physical) at the hands of Pan, which makes him somewhat fearful of her.',
+      debut: 'Terror on Imecka',
+      race: 'Machine Mutant',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'Uub',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/1b/Cvanon.jpg/revision/latest/scale-to-width-down/350?cb=20171214122930',
+      description:
+        'Uub (ウーブ Ūbu, lit. "Oob") is the human reincarnation of Kid Buu. He becomes Goku\'s martial arts student after fighting him in the 28th World Martial Arts Tournament.',
+      debut: 'Granddaughter Pan',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Pan',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d4/Dbgt11-03.png/revision/latest/scale-to-width-down/304?cb=20160102210141',
+      description:
+        "Pan (パン Pan) is the granddaughter of Earth's hero, Goku and the world champion, Mr. Satan. Her heritage is primarily Earthling, being the offspring of the Saiyan-Earthling hybrid Gohan and the Earthling Videl, thus making her a quarter-Saiyan.",
+      debut: 'Granddaughter Pan',
+      race: '3/4 Human-type Earthling - 1/4 Saiyan',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Martial Arts Teacher',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Bulla',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8e/BullaDBGTmad.png/revision/latest/scale-to-width-down/350?cb=20091210130643',
+      description:
+        'Bulla (ブラ Bura) is the daughter of Vegeta and Bulma, making her a Saiyan and Earthling hybrid, like her older brother Trunks.\n \n Vegeta initially wished to give his daughter a Saiyan name and had decided on Eschalot (エシャロット Esharotto), however, Bulma chose to name her Bulla before Vegeta could suggest the name.',
+      debut: 'Granddaughter Pan',
+      race: '1/2 Human-type Earthling - 1/2 Saiyan',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Marron',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/bd/Marron_naso1.jpg/revision/latest/scale-to-width-down/213?cb=20071210151352',
+      description:
+        'Marron (マーロン Māron) is the daughter of Krillin and Android 18.',
+      debut: "I'll Fight Too!",
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Park Ranger(Part Time)',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Kibito Kai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/12/KibitoKaiNV.png/revision/latest/scale-to-width-down/350?cb=20100424162026',
+      description:
+        'Kibito Kai (キビト神 Kibitoshin) is a result of Potara Fusion between Shin and his servant Kibito.',
+      debut: 'Ready to Fuse?',
+      race: 'Core Person',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 7',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Sugoro',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/88/SugoroAlone.png/revision/latest/scale-to-width-down/161?cb=20140208184043',
+      description:
+        'Sugoro (スー五郎 Sūgorō) is a shapeshifting space lemur that was introduced in Dragon Ball GT.',
+      debut: 'The Game After Life',
+      race: 'Space Lemur',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Wayfarer',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'Shusugoro',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/30/Shusugoro.png/revision/latest/scale-to-width-down/350?cb=20131214115559',
+      description:
+        'Shusugoro (スー小五郎 Sū Kogorō) is a Space Lemur, and the son of Sugoro.',
+      debut: 'The Game After Life',
+      race: 'Space Lemur',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Wayfarer',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'Dr. Myuu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/45/22-06.jpg/revision/latest/scale-to-width-down/250?cb=20070407115621',
+      description:
+        'Dr. Myuu (ドクター・ミュー Dokutā Myū) is a Machine Mutant who first appears in Dragon Ball GT. His goal was the completion of the Total Galaxy Conquest Operation. He is the main antagonist of the Black Star Dragon Ball Saga and secondary antagonist of the Baby and Super 17 Sagas.',
+      debut: 'The Man Behind the Curtain',
+      race: 'Machine Mutant',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Scientist',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'General Rilldo',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e3/General_Rilldo_DBGT_Ep_19_007.png/revision/latest/scale-to-width-down/310?cb=20170827055925',
+      description:
+        "General Rilldo (リルド将軍 Rirudo Shōgun) was an alien who was reconstructed into a Machine Mutant.[1] He is an antagonist in Dragon Ball GT. He is Dr. Myuu's general, as well as the commander of planet M-2.",
+      debut: 'Beginning of the End',
+      race: 'Machine Mutant',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'General',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'Baby',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/92/Baby_High_Quality.png/revision/latest/scale-to-width-down/211?cb=20201230021739',
+      description:
+        'Baby (ベビー Bebī) is the last survivor of the Tuffle race who is rebuilt by his creation, Dr. Myuu as a Machine Mutant to exterminate the Saiyans and restore his kind by controlling everyone on Earth. He is the main antagonist of the Baby Saga in Dragon Ball GT.',
+      debut: 'The Baby Secret',
+      race: 'Neo Machine Mutant Tuffle',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball GT'],
+    },
+    {
+      name: 'Syn Shenron',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8c/SynShenronOneStarDragon.png/revision/latest/scale-to-width-down/255?cb=20200426155932',
+      description:
+        'Syn Shenron, known as Yi Xing Long (一イー星シン龍ロン Īshinron, lit. "One-Star Dragon") in the Japanese version, is the seventh and last of the evil Shadow Dragons to appear, and the last villain to appear in Dragon Ball GT.',
+      debut: 'The One-Star Dragon',
+      race: 'Eternal Dragon',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball GT'],
+    },
   ],
 };
