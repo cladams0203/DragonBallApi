@@ -1272,5 +1272,669 @@ export const data = {
       occupation: '',
       series: ['Dragon Ball GT'],
     },
+    {
+      name: 'Gotenks',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d6/GotenksNV.png/revision/latest/scale-to-width-down/628?cb=20120724084216',
+      description:
+        'Gotenks (ゴテンクス Gotenkusu), previously known as Trunkten, is the immensely powerful fusion of Goten and Trunks successfully using the Fusion Dance, and the first successful fusion dance character to be seen in the Dragon Ball series. He likes to call himself, "The Hero of Justice" or "Grim Reaper of Justice".',
+      debut: 'Gotenks is Born',
+      race: '1/2 Earthling - 1/2 Saiyan (Hybrid)',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Beerus',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7d/BeerusWikia_%283%29.jpg/revision/latest/scale-to-width-down/562?cb=20170626180040',
+      description:
+        "Beerus (ビルス Birusu) is the God of Destruction of Universe 7. He is accompanied by his martial arts teacher and attendant, Whis. Beerus' twin brother is Champa, the God of Destruction of Universe 6.\n \n Beerus is the main antagonist of the Dragon Ball Z: Battle of Gods film and the God of Destruction Beerus Saga but becomes a supporting character in later sagas.",
+      debut: 'A Peacetime Reward Who Gets the 100,000,000 Zeni?!',
+      race: "Beerus' race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 7',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Whis',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/da/WhisU7.png/revision/latest/scale-to-width-down/592?cb=20170629161500',
+      description:
+        "Whis (ウイス Uisu) is the Guide Angel Attendant of Universe 7's God of Destruction, Beerus, as well as his martial arts teacher. Along with the other angels, he is a child of the Grand Minister. Like all attendants, he is bound to the service of his deity and usually does not leave Beerus unaccompanied.",
+      debut: 'A Peacetime Reward Who Gets the 100,000,000 Zeni?!',
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant / Martial Arts Teacher',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Oracle Fish',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/14/Oracle_Fish.png/revision/latest/scale-to-width-down/700?cb=20190730220735',
+      description:
+        'The Oracle Fish (予言よげん魚うお Yogen-gyo) is a sapient blue fish that has prophetic powers.',
+      debut: 'Where Does the Dream Pick Up? Find the Super Saiyan God!',
+      race: 'Fish',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Oracle',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Champa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/fc/13001281_1570422286602499_8941391900815166996_n.jpg/revision/latest/scale-to-width-down/638?cb=20160411002336',
+      description:
+        "Champa (シャンパ Shanpa)[2] is the God of Destruction of Universe 6. He's accompanied by his attendant and martial arts teacher, Vados. He's both the twin brother and constant rival of the God of Destruction of Universe 7, Beerus.\n \n Champa is the main antagonist of the Universe 6 Saga, but he becomes a supporting character in later sagas.",
+      debut: "I'm Here, Too! Training Commences on Beerus' World",
+      race: "Beerus' race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 6',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Vados',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/41/VadosWikia_%281%29.jpg/revision/latest/scale-to-width-down/563?cb=20170625154835',
+      description:
+        'Vados (ヴァドス Vadosu) is the attendant and martial arts teacher of the God of Destruction of Universe 6, Champa. She is a daughter of the Grand Minister and the elder sister of Whis.',
+      debut: "I'm Here, Too! Training Commences on Beerus' World",
+      race: 'Angel',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Attendant / Martial Arts Teacher',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Bubbles',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ec/BubblesEndOfSnakeWay.png/revision/latest/scale-to-width-down/700?cb=20100624041150',
+      description:
+        "Bubbles (バブルス Baburusu) is the monkey pet and friend of King Kai. He serves a special purpose during King Kai's training lessons, particularly one of two endurance tests, where trainees are instructed to chase after Bubbles in an effort to catch him. Though the task may seem simple at first, there is a catch: the gravity on King Kai's Planet is ten times that of Earth, and Bubbles is perfectly used to it.",
+      debut: 'The End of Snake Way',
+      race: 'Monkey',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Gragory',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/4e/GregoryEp21.png/revision/latest/scale-to-width-down/542?cb=20171215002438',
+      description:
+        "Gregory (グレゴリー Guregorī) is a levitating cricket sprite that acts as King Kai's butler, and looks after him.",
+      debut: "Goku's Ancestors",
+      race: 'Sprite',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Jaco',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c0/Jaco_DBS_Ep_24_001.png/revision/latest/scale-to-width-down/632?cb=20170827064327',
+      description:
+        'Jaco Teirimentenpibosshi (ジャコ・ティリメンテンピボッシ Jako Tirimentenpibosshi) is a klutzy expendable member of the Galactic Patrol who claims to be a super elite. To the public on Earth, Jaco was initially known as Mask Man (a name which he personally detested), but later convinced them to refer to him as Super Elite. He is the protagonist of the eponymous manga Jaco the Galactic Patrolman by Akira Toriyama.',
+      debut: 'A Warning from Jaco! Frieza and 1,000 Soldiers Close In',
+      race: 'Alien',
+      gender: 'Male',
+      height: '4\'10"',
+      weight: '',
+      occupation: 'Galactic Patrolman',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Bee',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/34/Bee.jpg/revision/latest/scale-to-width-down/699?cb=20081224060752',
+      description:
+        'Bee (ベエ Bē) is a Labrador owned by Mr. Satan and Good Buu.',
+      debut: 'I Kill No More',
+      race: 'Labrador Retriever',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Bee',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/34/Bee.jpg/revision/latest/scale-to-width-down/699?cb=20081224060752',
+      description:
+        'Bee (ベエ Bē) is a Labrador owned by Mr. Satan and Good Buu.',
+      debut: 'I Kill No More',
+      race: 'Labrador Retriever',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Shin',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/17/KaiSupremeNV.png/revision/latest/scale-to-width-down/699?cb=20120111094205',
+      description:
+        'Shin (シン Shin)[1][2] the East Supreme Kai (東ひがしの界かい王おう神しん Higashi no Kaiōshin, lit. "God of the East King of the Worlds"), primarily known just as Supreme Kai (界かい王おう神しん Kaiōshin, lit. "God of the Kings of the Worlds"), is the ruler of the eastern area of both the living and the otherworld in the universe and the Supreme Kai of Universe 7.',
+      debut: 'Big Trouble, Little Trunks',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 7',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'King Vegeta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8a/King_Vegeta_DBZ_Ep_78_001.png/revision/latest/scale-to-width-down/615?cb=20171029192354',
+      description:
+        "King Vegeta (ベジータ王 Bejīta-ō), more specifically Vegeta III (ベジータ三世 Bejīta Sansei)[2], is the king of all Saiyans and the father of Vegeta IV and Tarble. After his people were annexed by King Cold's Cold Army he had no choice but to pledge allegiance, but still kept power over his people; this continued into the Saiyans' time under Frieza's Frieza Force, until the tyrant slaughtered them.",
+      debut: 'Fighting Power: One Million??',
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'King of Planet Vegeta',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Caroni',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/30/CaroniNV.png/revision/latest/scale-to-width-down/700?cb=20100425171814',
+      description:
+        "Caroni (カロニー Karonī) is one of Mr. Satan's top two students.",
+      debut: 'Losers Fight First',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Miss Piiza',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b2/MissPizza.png/revision/latest/scale-to-width-down/700?cb=20100505071425',
+      description:
+        'Miss Piiza (ピーザ Pīza) is the promotional agent of Mr. Satan and his two top disciples, Caroni and Pirozhki.',
+      debut: 'Losers Fight First',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Promotional Agent',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Pirozhki',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/32/PiroshkiNV.png/revision/latest/scale-to-width-down/700?cb=20100425171828',
+      description:
+        "Pirozhki (ピロシキ Piroshiki) is one of Mr. Satan's top two students. He and Caroni are known as one of the greatest tag teams in their pro leagues.",
+      debut: 'Losers Fight First',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Galbee',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/1f/48293db6b2a95b655c0d7f98cf224b9f.png/revision/latest/scale-to-width-down/700?cb=20151125170619',
+      description:
+        "Galbee (ガルビ Garubi) is a hero of the Snackians' home world, Planet Snack.",
+      debut: 'Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!',
+      race: 'Snackian',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Sorbet',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/92/Sorbe~.png/revision/latest/scale-to-width-down/700?cb=20161121025839',
+      description:
+        "Sorbet (ソルベ Sorube) is a loyal subject of the emperor, Frieza. He is a member of Frieza's support staff in the Third Stellar Region. He later became the commander of the Frieza Force after Frieza's demise.\n \n Sorbet is the secondary antagonist of the Golden Frieza Saga.",
+      debut: "I'm Here, Too! Training Commences on Beerus' World",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Tagoma',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8d/Tagomaa.png/revision/latest/scale-to-width-down/651?cb=20161118010305',
+      description:
+        'Tagoma (タゴマ Tagoma) is one of the elite soldiers working under Sorbet, functioning as his bodyguard.',
+      debut: "I'm Here, Too! Training Commences on Beerus' World",
+      race: "Tagoma's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Shisami',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ed/Shisamii.png/revision/latest/scale-to-width-down/700?cb=20161118024256',
+      description:
+        'Shisami (シサミ Shisami) is an elite soldier serving Sorbet in the Frieza Force.',
+      debut: "I'm Here, Too! Training Commences on Beerus' World",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Mercenary',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Tights',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/56/5f81848cef9048469fd378f4a8d1d061.png/revision/latest/scale-to-width-down/554?cb=20160214233430',
+      description:
+        "Tights (タイツ Taitsu) is the first daughter of Dr. Brief and Mrs. Brief, and Bulma's older sister.",
+      debut:
+        'Combat Matches Are a Go! The Captain Is Someone Stronger Than Goku',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Science Fiction Writer',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zuno',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/25/Zunosama.jpg/revision/latest/scale-to-width-down/700?cb=20160221223447',
+      description:
+        'Zuno (ズノー Zunō), also known as Master Zuno (ズノー様 Zunō-sama) is a mysterious character who knows virtually everything to have ever happened in the Multiverse.',
+      debut:
+        'Off to See Master Zuno! Find Out Where the Super Dragon Balls Are!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Geppuman',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/dc/Bd0db58f546d56fd6fb4701f5f31e0b0.png/revision/latest/scale-to-width-down/700?cb=20160217212415',
+      description:
+        'Geppuman (ゲップマン Geppuman) is a notorious diner and dasher who visits Zuno on his planet.',
+      debut:
+        'Off to See Master Zuno! Find Out Where the Super Dragon Balls Are!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Galactic King',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ef/GalacticKingimageUAI_.jpeg/revision/latest/scale-to-width-down/540?cb=20160221021527',
+      description:
+        'The Galactic King (銀河ぎんが王おう Gingaō) is the king of the Milky Way Galaxy in Universe 7 and leader of the Galactic Patrol.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Octo',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'King of the Milky Way Galaxy',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Monaka',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/44/Monaka-Anime.png/revision/latest/scale-to-width-down/434?cb=20170803174639',
+      description:
+        'Monaka (モナカ Monaka) is a deliveryman whom the God of Destruction Beerus uses as motivation for Goku to get stronger.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Wagashi-seijin',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Universal Deliveryman',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Cabba',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/fb/Cabba_DBS_Ep_37_001.png/revision/latest/scale-to-width-down/562?cb=20170830030248',
+      description:
+        'Cabba (キャベ Kyabe) is a Saiyan from Universe 6. He is a member of Team Universe 6 and is one of its strongest fighters, and a member of the Sadala Defense Forces.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Sadala Defense Forces Elite',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Frost',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/4b/FrostFinalForm.png/revision/latest/scale-to-width-down/238?cb=20170724232039',
+      description:
+        "Frost (フロスト Furosuto) is a member of the Frieza Race and emperor of Universe 6 (former emperor in the anime), being that universe's version of Frieza. In the anime, he became a wanted fugitive after revealing himself as a space pirate. He is erased due to the events of Tournament of Power after being betrayed by his Universe 7 counterpart, Frieza, but he is later revived with the rest of the contestants. Frost is a dirty fighter, who is extremely cunning and deceptive.",
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Frieza race',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Space Pirate',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Hit',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ec/Hit_Profile.jpg/revision/latest/scale-to-width-down/200?cb=20160404221157',
+      description:
+        'Hit (ヒット Hitto), renowned as "Never-Miss Hit" (百発百中のヒット Hyappatsu-hyakuchū no Hitto, lit. "Hit the Infallible") and as the "Legendary Hitman" (伝説の殺し屋 Densetsu no Koroshi-ya, lit. "Legendary Assassin") is the legendary assassin of Universe 6. In addition, he also later on becomes the leader for Team Universe 6.\n \n He is the main fighting antagonist of the Universe 6 Saga.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Assassin',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Botamo',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f1/Botamo_Super_ep_32_HD_profile.png/revision/latest/scale-to-width-down/350?cb=20170724092514',
+      description:
+        'Botamo (ボタモ Botamo) is one of the strongest warriors from Universe 6.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: "Botamo's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Auta Magetta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b6/AutaMagetta.png/revision/latest/scale-to-width-down/350?cb=20170725105433',
+      description:
+        'Auta Magetta (オッタ マゲッタ Otta Magetta) is a Metalman from Universe 6, a race that is said to also exist in Universe 7.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Metalman',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Referee',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/46/U6TourneyAnnouncer.png/revision/latest/scale-to-width-down/350?cb=20170807032512',
+      description:
+        'The Referee (レフェリー Referī) is the ring announcer for the Tournament of Destroyers.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: "Referee' race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Referee',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Fuwa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/4a/Fuwa1.png/revision/latest/scale-to-width-down/350?cb=20170707164828',
+      description: 'Fuwa (フワ Fuwa) is the Supreme Kai of Universe 6.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 6',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: "Fuwa's Attendant",
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/9c/Vlcsnap-2016-02-15-14h13m41s277.png/revision/latest/scale-to-width-down/350?cb=20161114222343',
+      description:
+        'Fuwa\'s Attendant (第6宇宙の 界王神付き人[1] Dai roku Uchū no Kaiōshin Tsukibito, lit. "The 6th Universe\'s Valet of a God of the Kings of the Worlds") is the attendant Supreme Kai of Universe 6.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant Supreme Kai of Universe 6',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Singer',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d3/AnthemSinger.png/revision/latest/scale-to-width-down/350?cb=20170802000646',
+      description:
+        'The Singer (歌手 Kashu) is the singer that sings the anthem of the inter-universe. Despite his small size his voice is surprisingly deep.',
+      debut: 'The Matches Begin! We\'re All Off to the "Planet with No Name!"',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Singer',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zeno',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c1/Zeno.png/revision/latest/scale-to-width-down/301?cb=20170805000223',
+      description:
+        'Grand Zeno (全王 Zen’ō, lit. "King of All"), the Omni-King,[1] is the supreme ruler of all the Multiverse and seemingly its most powerful being. Since the events of the "Future" Trunks Saga, Zeno co-rules jointly with his future counterpart.',
+      debut: 'A Decision at Last! Is the Winner Beerus? Or Is It Champa?',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Ruler of Existence',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: "Zeno's Attendants",
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/da/ZenosGuards.png/revision/latest/scale-to-width-down/350?cb=20170816000852',
+      description:
+        "Zeno's Attendants (全王の付き人 Zen’ō no tsukibito) are a pair of tall identical entities that serve Zeno.\n \n In the anime version of the Universe Survival Saga a second identical pair of attendants appear to serve Future Zeno.",
+      debut: 'A Decision at Last! Is the Winner Beerus? Or Is It Champa?',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendants / Bodyguards',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Super Shenron',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/2b/Sdsdcxcxc.jpg/revision/latest/scale-to-width-down/350?cb=20160501041041',
+      description:
+        'Super Shenron (超スーパー神シェン龍ロン Sūpā Shenron, lit. "Super Divine Dragon" or "Super Dragon God") is the Eternal Dragon who appears when the Super Dragon Balls are gathered.\n \n In the English dub, it is said that this divine dragon is Zalama.',
+      debut: 'Come Forth, Divine Dragon! And Grant My Wish, Peas and Carrots!',
+      race: 'Eternal Dragon',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Gryll',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/99/Omega_Shenron_DBS.png/revision/latest/scale-to-width-down/325?cb=20160531071216',
+      description:
+        'Gryll (グリール Gurīru) was a wanted criminal in the Milky Way Galaxy from Planet Saute who aimed to obtain the Superhuman Water of Potaufeu.',
+      debut:
+        'The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!',
+      race: 'Saute-jin',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Criminal',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Duplicate Gryll',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8e/Screen_Shot_2016-05-30_at_5.56.04_AM.png/revision/latest/scale-to-width-down/350?cb=20160530133209',
+      description:
+        'Duplicate Gryll (複製グリール Fukusei-Gurīru, lit. "Copy-Gryll") is a copy of Gryll created by Commeson. Duplicate Gryll contains the crystal, the source of power of Commeson, and thus acts as the primary body of Commeson (コメソン Komeson), controlling the other Commeson creations.',
+      debut:
+        'The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!',
+      race: 'Commeson / Saute-jin',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Duplicate Vegeta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/3e/Copy-Vegeta.png/revision/latest/scale-to-width-down/350?cb=20160523071016',
+      description:
+        'Duplicate Vegeta (複製ベジータ Fukusei-Bejīta, lit. "Copy-Vegeta")[2] is the result of Commeson (コメソン Komeson) draining Vegeta\'s power and taking on his form.',
+      debut:
+        'The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!',
+      race: 'Commeson / Saiyan',
+      gender: 'Male',
+      height: '5\'4"',
+      weight: '124 lbs',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Potage',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/66/Screenshot_6.png/revision/latest/scale-to-width-down/350?cb=20160530020020',
+      description:
+        'Potage (ポタージュ Potājyu) is the only current inhabitant of Planet Potaufeu. He also possesses the key for the seal of Commeson, determined to protect it from the invaders believing the false "Superhuman Water" rumors.',
+      debut:
+        'The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!',
+      race: '',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Guardian of the Superhuman Water',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Future Bulma',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/22/FutureBulma.HistoryTrunks.png/revision/latest/scale-to-width-down/350?cb=20110910153259',
+      description:
+        'Future Bulma (未来のブルマ Mirai no Buruma) is the alternate timeline counterpart of Bulma that appeared in the special, Dragon Ball Z: The History of Trunks and the tail end of the Cell Games Saga. She is the mother of Future Trunks, and aside from her son, is the last surviving member of the Dragon Team in her respective timeline. She played a small and largely unseen, but very important role in the Trunks Saga through Perfect Cell Saga; creating the Time Machine that enabled Future Trunks to go back in time in the first place and warn everyone of the Androids.',
+      debut: 'Follow Dr. Gero',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '5\'5"',
+      weight: '108 lbs',
+      occupation: 'Scientist',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Arale Norimaki',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7a/AraleNorimaki01.png/revision/latest/scale-to-width-down/316?cb=20100224102358',
+      description:
+        "Arale Norimaki (則巻アラレ Norimaki Arare) is an android built by Senbei Norimaki, known for her naiveté, energetic personality, superhuman strength, and lack of common sense. Being the world's first perfect android, her only physical flaw is that she is nearsighted and needs to wear glasses. Senbei's mission is to convince the other citizens of Penguin Village that Arale is a human girl, which they appear to believe in, despite taking notice of her numerous displays of superhuman athletic capability.\n \n She is the main protagonist to Akira Toriyama's previous series, Dr. Slump, as well as a minor supporting character in the Dragon Ball manga and anime and Dragon Ball Super.",
+      debut: "Arale-chan's Birth",
+      race: 'Android',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Mayor of Penguin Village',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Goku Black',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/13/Screenshot_%282%29.png/revision/latest/scale-to-width-down/333?cb=20190211123553',
+      description:
+        'Goku Black (ゴクウブラック Gokū Burakku), usually referred to as Black, is the main antagonist of the "Future" Trunks Saga of Dragon Ball Super. His true identity is Zamasu (ザマス Zamasu) from the unaltered main timeline within Universe 10. He is a former North Kai and Supreme Kai apprentice serving his former master Gowasu. Goku Black visited Universe 6, went to the Super Dragon Balls from the unaltered main timeline withn that universe, summoned Super Shenron from said timeline, wished to switch bodies with Goku from the unaltered main timeline within Universe 7, and Super Shenron granted Goku Black\'s wish. Goku Black sought to destroy all mortals alongside Future Zamasu. He was then given the name "Goku Black" by Future Bulma when he initially referred to himself as Goku.',
+      debut: 'SOS from the Future: A Dark New Enemy Appears!',
+      race: 'Saiyan / Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'North Kai of Universe 10',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Future Mai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7d/Mai-future.png/revision/latest/scale-to-width-down/263?cb=20161226225224',
+      description:
+        'Future Mai (未来のマイ Mirai no Mai) is the one of the tritagonists of the "Future" Trunks Saga. She is the leader of the Resistance against Goku Black and one of Future Trunks\' closest allies.\n \n Mai assists Trunks and the others throughout the entire story arc. In the end, Fused Zamasu had merged with the multiverse itself, causing Future Zeno to erase it. She is one of the three survivors and now lives in the new future timeline where another Future Mai exists - thanks to Whis warning Future Beerus of Zamasu\'s Project Zero Mortals.',
+      debut: 'SOS from the Future: A Dark New Enemy Appears!',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Future Dabura',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/88/Fd.png/revision/latest/scale-to-width-down/350?cb=20180121201540',
+      description:
+        'Future Dabura (未来のダーブラ Mirai no Dābura) is an alternate timeline version of Dabura that was defeated by Future Trunks.',
+      debut: 'A Message From the Future The Incursion of Goku Black!',
+      race: 'Demon Realm race',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'King of the Demon Realm of Darkness',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Future Gohan',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/aa/GohanFutureDVDnv.png/revision/latest/scale-to-width-down/322?cb=20190529101951',
+      description:
+        "Future Gohan (未み来らいの孫そん悟ご飯はん Mirai no Gohan) is the alternate timeline counterpart of Gohan that appears in the timeline in which Future Trunks lives.\n \n Future Gohan is showcased as a twenty-three-year-old man and is depicted as the mentor of Future Trunks. After his father dies from a heart virus and cannot be wished back with the Dragon Balls, due to his death being a natural cause and the murder of the Dragon Team at the hands of Android 17 and Android 18 six months later, Gohan becomes Earth's last line of defense. Now a Super Saiyan, he spends the following thirteen years attempting to take down the androids, all the while training Future Trunks in the hope that he may one day be able to defeat them.",
+      debut: 'Ghosts from Tomorrow',
+      race: '1/2 Human-type Earthling - 1/2 Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
   ],
 };
