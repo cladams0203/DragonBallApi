@@ -1936,5 +1936,1756 @@ export const data = {
       occupation: 'Martial Artist',
       series: ['Dragon Ball Z', 'Dragon Ball Super'],
     },
+    {
+      name: 'Gowasu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8b/Gowasu2.png/revision/latest/scale-to-width-down/350?cb=20170809025918',
+      description:
+        "Gowasu (ゴワス Gowasu) is the Supreme Kai of Universe 10 and Zamasu's former master.",
+      debut:
+        "Uncover Black's Identity! Off to the 10th Universe's World of the Kai's!",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 10',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Grand Minister',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/78/Daishinkan1.png/revision/latest/scale-to-width-down/185?cb=20170815212212',
+      description:
+        'The Grand Minister (大神官 Daishinkan, lit. "Great Priest" or "High Priest"), formally Grand Minister to the Omni-King(s), is an Angel serving as a close adviser and guiding figure to Zeno and Future Zeno, being occasionally allowed him execute Divine Decrees of the Zenos and welcome guests to their palace. In addition, the Grand Minister is the father of thirteen Angels, of which twelve serve the Gods of Destruction. He is also the most powerful warrior of the Multiverse.',
+      debut: "I'd Like to See Goku, You See A Summons From Grand Zeno!",
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Advisor to the Zenos',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Future Yajirobe',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d9/Future_Yajirobe.png/revision/latest/scale-to-width-down/350?cb=20170704221139',
+      description:
+        "Future Yajirobe (未来のヤジロベー Mirai no Yajirobē) is Yajirobe's counterpart in the alternate timeline.",
+      debut: 'Ghosts from Tomorrow',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '5\'5"',
+      weight: '172 lbs',
+      occupation: 'Ronin',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Haru',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/da/Haru.png/revision/latest/scale-to-width-down/334?cb=20170612085632',
+      description:
+        "Haru (ハル Haru) is an orphaned child in Future Trunks' timeline. He only appears in the anime.",
+      debut: 'Rematch with Goku Black! Enter Super Saiyan Rosé',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Maki',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/21/Maki.png/revision/latest/scale-to-width-down/305?cb=20170612085707',
+      description:
+        "Maki (マキ Maki) is an orphan girl in an Future Trunks' timeline. She only appears in the anime.",
+      debut: 'Rematch with Goku Black! Enter Super Saiyan Rosé',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Future Zamasu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/dd/FZ.png/revision/latest/scale-to-width-down/311?cb=20170810020727',
+      description:
+        'Future Zamasu (未み来らいのザマス Mirai no Zamasu) is an alternate timeline counterpart of the Zamasu from Future Trunks\' timeline. He is the secondary antagonist of the "Future" Trunks Saga. He is the former Supreme Kai apprentice of Universe 10, who became a Supreme Kai. This version of Zamasu is an ally to Goku Black (his past self from the original present timeline) and the two were the only "gods" left in that timeline.[2] He along with Black worked together to wipe out all Mortals with Project Zero Mortals.',
+      debut: 'Rematch with Goku Black! Enter Super Saiyan Rosé',
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'North Kai of Universe 10',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Fused Zamasu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d4/Zamasufusion.png/revision/latest/scale-to-width-down/350?cb=20170815095644',
+      description:
+        'Fused Zamasu (合がっ体たいザマス Gattai Zamasu), (known as Fusion Zamasu in the anime and God Zamas in the VIZ manga) usually just referred to as Zamasu (ザマス Zamasu), is a fusion born of the union between Goku Black (the original present Zamasu in the original present Goku\'s body) and Future Zamasu through the Potara earrings. He is a major antagonist of the "Future" Trunks Saga.',
+      debut:
+        'Worship Me! Give Praise Unto Me! The Explosive Birth of a Merged Zamasu!',
+      race: '1/2 Core Person - 1/2 Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Vegito',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8c/DBKai_Vegito.png/revision/latest/scale-to-width-down/350?cb=20200906182550',
+      description:
+        'Vegito (ベジット Bejitto), called Vegerot in the Viz English manga, is the result of the fusion between Goku and Vegeta by the use of the Potara Earrings. Vegito is the most powerful character in the original Dragon Ball manga. His Fusion Dance counterpart is Gogeta.',
+      debut: 'Union of Rivals',
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Future Zeno',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7f/MiraiZenosama.png/revision/latest/scale-to-width-down/350?cb=20170815211235',
+      description:
+        'Future Zeno (未来の全王 Mirai no Zen’ō, lit. "Future King of All") is one of the two kings of the 18 Universes in the present timeline and the former king of the 18 universes in Future Trunks\' timeline, an entity that is above all living beings of all the universes, though he now lives in the main timeline, sharing the full authority over existence that Present Zeno possesses.\n \n In the manga, he is one of the three survivors of his timeline, alongside Future Trunks and Future Mai.',
+      debut: 'With New Hope in His Heart - Farewell, Trunks',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Ruler of Existence',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Senbei Norimaki',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f9/Senbei3%28DB%29.png/revision/latest/scale-to-width-down/350?cb=20120515140844',
+      description:
+        "Senbei Norimaki (則巻千兵衛 Norimaki Senbē, also spelled as 則巻センベエ) is Penguin Village's goofy and lecherous genius inventor. He is capable of creating wacky inventions that defy logic with his greatest accomplishment being the creation of a powerful robot in the guise of a little girl who he claims to be his younger sister named Arale Norimaki. He isn't very well known outside of the village but is actually one of Earth's greatest scientific minds as he was secretly the first to successfully create a perfect Android and has won the \"World Invention Award\" for his creation the Reality Machine 2.\n \n He is the title character to Akira Toriyama's previous series, Dr. Slump as well as a minor supporting character in the Dragon Ball manga, anime and Dragon Ball Super.",
+      debut: "Arale-chan's Birth",
+      race: 'Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Dr. Mashirito',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c2/Mashirito_pre-cyborg3.png/revision/latest/scale-to-width-down/350?cb=20161202131122',
+      description:
+        "​Dr. Mashirito (Ｄｒ．ドクターマシリト Dokutā Mashirito) is an evil scientist who is Senbei Norimaki's rival and the creator of Obotchaman. He is considered to be the main and most recurring antagonist of the Dr. Slump series.\n \n Dr. Mashirito's name is an anagram of Kazuhiko Torishima's last name and is based on him.[1] According to Torishima in an interview with Forbes, the idea came from him viewing Mashirito's original design as being not intimidating enough and asking Akira Toriyama to think of the one person he hated the most; Toriyama appropriately took inspiration from the strict Torishima, much to the latter's exasperation.",
+      debut: 'Penguin Village SOS!!',
+      race: 'Human-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Mr. Pig',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/63/DrSlump-Episode001_23.png/revision/latest/scale-to-width-down/350?cb=20120515232411',
+      description:
+        'Mr. Pig, also known as Oinkety Oink (ブータレブー Būtarebū), is a resident of Penguin Village who is an anthropomorphic pig. His role is to talk into a microphone to announce the time of day it is in Penguin Village.',
+      debut: "Arale-chan's Birth",
+      race: 'Animal-type Earthling',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Bubibinman',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c5/Bubibinman02.png/revision/latest/scale-to-width-down/333?cb=20100224102153',
+      description:
+        'Bubibinman (ブビビンマン lit. "Buzzingman") is a fly-like humanoid superhero who is from the planet Haebunbu.',
+      debut: 'The Invader from Space',
+      race: 'Haebunbu-seijin',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Barry Kahn',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/58/BarryKahn.jpg/revision/latest/scale-to-width-down/350?cb=20100724221801',
+      description:
+        'Barry Kahn (バリー・カーン Barī Kān) is a young A-list actor and an extremely popular celebrity on Earth during the Majin Buu Saga. He plays Great Saiyaman in the Great Saiyaman movie.',
+      debut: 'The Fusion Dance',
+      race: 'Hunam-type Earthling',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Actor',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Cocoa Amaguri',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/a3/Cocoa_Amaguri.jpg/revision/latest/scale-to-width-down/317?cb=20170125023955',
+      description:
+        "Cocoa Amaguri (甘栗ココア Amaguri Kokoa) is a famous pop idol who is the actress for the Great Saiyaman's love interest in Barry Kahn's movie Great Saiyaman vs. Mr. Satan.",
+      debut:
+        "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+      race: 'Hunam-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Pop Idol',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Watagash',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/36/Watagash1.png/revision/latest/scale-to-width-down/350?cb=20201204155338',
+      description:
+        'Watagash (ワタガッシュ Watagasshu) is a dangerous parasitic criminal who appears as an antagonist in Dragon Ball Super.',
+      debut:
+        "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+      race: 'Parasitic alien',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Super Buu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e3/Majin_Buu_DBZ_Ep_263_002.png/revision/latest/scale-to-width-down/289?cb=20180121183408',
+      description:
+        'Super Buu (超ブウ Chō Bū), also called Majin Buu (Evil) (魔ま人じんブウ（悪あく） Majin Bū (Aku)), is the result of Evil Buu eating Good Buu in a chocolate form. This new Majin Buu has tremendously more power and increased mental capacity than the previous incarnation. In this form, Buu has very little patience and extremely dangerous fits of anger, even possessing the power to rip through dimensional walls if angered enough.\n \n He is the main antagonist for the Fusion Saga part of the Majin Buu Arc.',
+      debut: 'Buu Against Buu',
+      race: 'Majin',
+      gender: 'Male',
+      height: '8\'0"',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Guldo',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/cb/GULDO.jpg/revision/latest/scale-to-width-down/350?cb=20140228015925',
+      description:
+        'Guldo (グルド Gurudo) is the smallest and least physically powerful member of the Ginyu Force. Guldo possesses some psychic abilities, including being able to stop time for as long as he can hold his breath; this seems to be one of the primary reasons he has attained membership to the Ginyu Force. In battle, Guldo is cowardly, and desperate, resorting to different tactics to defeat his enemies.',
+      debut: "Bulma's Big Day",
+      race: 'Mutant Bas',
+      gender: 'Male',
+      height: '3\'3"',
+      weight: '',
+      occupation: 'Elite Soldier',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Burter',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/5b/Burter.JPG/revision/latest/scale-to-width-down/350?cb=20070627133559',
+      description:
+        'Burter (バータ Bāta) is the fastest member of the mercenary platoon known as the Ginyu Force. Being nicknamed the "Blue Hurricane", he often performs combo attacks with Jeice, such as the Purple Comet Hurricane. He is very arrogant, boastful, and tends to talk down to his opponents.',
+      debut: "Bulma's Big Day",
+      race: "Burter's race Mutant",
+      gender: 'Male',
+      height: '8\'3"',
+      weight: '',
+      occupation: 'Elite Soldier',
+      series: ['Dragon Ball Z', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Jeice',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/aa/Jeice_DBZ_Ep_71_003.png/revision/latest/scale-to-width-down/350?cb=20180815224135',
+      description:
+        'Jeice (ジース Jīsu) is a member of the Ginyu Force, acting as Ginyu\'s second in command and fighting partner of Burter. Being a red-skinned alien humanoid in appearance, Captain Ginyu best describes him as an extremely flamboyant and showy white-haired mutant. Nicknamed the "Red Magma", he often pairs with Burter for combination attacks, such as the Purple Comet Attack.',
+      debut: "Bulma's Big Day",
+      race: 'Mutant Brench-seijin',
+      gender: 'Male',
+      height: '5\'7"',
+      weight: '',
+      occupation: 'Pro Baseball Player',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Recoome',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8a/RecoomeTGFP.png/revision/latest/scale-to-width-down/350?cb=20100409151048',
+      description:
+        'Recoome (リクーム Rikūmu) is a member of the Ginyu Force. He is the most flamboyant member as he is seen striking poses more often in battle than Captain Ginyu himself and generally behaving in a deceptively goofy manner.',
+      debut: "Bulma's Big Day",
+      race: 'Mutant Brench-seijin',
+      gender: 'Male',
+      height: '7\'7"',
+      weight: '',
+      occupation: 'Elite Soldier',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Roh',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/27/Roo.png/revision/latest/scale-to-width-down/350?cb=20170823161853',
+      description:
+        'Roh (ロウ Rō) is the Supreme Kai of Universe 9 and appears in Dragon Ball Super during the Universe Survival Saga.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 9',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Sidra',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c9/Sidra2.png/revision/latest/scale-to-width-down/305?cb=20170823155247',
+      description:
+        'Sidra (シドラ Shidora) is the God of Destruction of Universe 9.[1] He is accompanied by his attendant and martial arts teacher, Mohito.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 9',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Basil',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/a3/Kicker_Basil.png/revision/latest/scale-to-width-down/290?cb=20170221140644',
+      description:
+        'Basil (バジル Bajiru), known as "Basil the Kicker" (蹴りのバジル Keri no Bajiru, lit. Basil of the Kicks) in the anime, is the youngest brother and a member of Trio of Danger, a team of sibling fighters from Universe 9. Basil is ruthless, arrogant, and enjoys toying with his opponents.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Wolf Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Lavender',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d1/LavenderU9.png/revision/latest/scale-to-width-down/318?cb=20170709221343',
+      description:
+        'Lavender (ラベンダ Rabenda), known as "Poison Blow Lavender" (有毒なのラベンダ Yūdokuna no Rabenda) in the anime, is the middle brother of Trio of Danger, a team of fighters from Universe 9 chosen to participate in the Zeno Expo and the Tournament of Power. Lavender is sadistic, psychotic, and versatile.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Wolf Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Bergamo',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/cc/Bergamo2.png/revision/latest/scale-to-width-down/350?cb=20171229210034',
+      description:
+        'Bergamo (ベルガモ Berugamo), known as "Bergamo the Crusher" (潰しのベルガモ Tsubushi no Berugamo) in the anime, is a member of Trio of Danger, a team of sibling fighters from Universe 9. He is the eldest brother of the trio. Bergamo is a smooth-talking, egotistical, and honorable fighter.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Wolf Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Leader of the Trio De Dangers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Heles',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/16/Helles_during_a_conversation.png/revision/latest/scale-to-width-down/253?cb=20170707163504',
+      description:
+        'Heles (ヘレス Heresu) is the God of Destruction of Universe 2. She is accompanied by her attendant and martial arts teacher Sour.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 2',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Khai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/29/Kai.png/revision/latest/scale-to-width-down/298?cb=20170823161307',
+      description: 'Khai (カイ Kai) is the Supreme Kai of Universe 11.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 11',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Top',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/87/Top.png/revision/latest/scale-to-width-down/350?cb=20180123150059',
+      description:
+        "Top (トッポ Toppo) is the leader of the heroic team, the Pride Troopers, guardians of peace within Universe 11. He is also a candidate to become Universe 11's next God of Destruction. Top is a humble, hot-blooded, and respectful, fighter who strongly believes in justice.",
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Leader of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Eyre',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/ba/Eaa.png/revision/latest/scale-to-width-down/326?cb=20170707164221',
+      description: 'Eyre (エア Ea) is the Supreme Kai of Universe 3.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 3',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Belmod',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/0f/Ronald_McDestruction.png/revision/latest/scale-to-width-down/264?cb=20170823160402',
+      description:
+        'Belmod (ベルモッド Berumoddo) is the God of Destruction of Universe 11. He is accompanied by his attendant and martial arts teacher Marcarita.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Superhero',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kuru',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ec/Kaioshin1.png/revision/latest/scale-to-width-down/262?cb=20170702182455',
+      description: 'Kuru (クル Kuru) is the Supreme Kai of Universe 4.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 4',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Anato',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/42/Kaioshin.png/revision/latest/scale-to-width-down/331?cb=20170707162801',
+      description: 'Anato (アナト Anato) is the Supreme Kai of Universe 1.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 1',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Ogma',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e4/Ogma.png/revision/latest/scale-to-width-down/350?cb=20170706214350',
+      description: 'Ogma (オグマ Oguma) is the Supreme Kai of Universe 5.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 5',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Agu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/43/Agu.png/revision/latest/scale-to-width-down/350?cb=20170322022403',
+      description: 'Agu (アグ Agu) is the Supreme Kai of Universe 12.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 12',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Iru',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/88/Kaioshin3.png/revision/latest/scale-to-width-down/350?cb=20170716093514',
+      description: 'Iru (イル Iru) is the Supreme Kai of Universe 8.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 8',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Marcarita',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/02/U11Angel.png/revision/latest/scale-to-width-down/350?cb=20170823155611',
+      description:
+        "Marcarita (マルカリータ Marukarīta) is the Angel of Universe 11. She is the attendant and martial arts teacher of Belmod. She is also one of the Grand Minister's daughters. She appears in Dragon Ball Super during the Universe Survival Saga.",
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Angel',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Pell',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e5/Kaioshin6.png/revision/latest/scale-to-width-down/350?cb=20170213042631',
+      description: 'Pell (ペル Peru) is the Supreme Kai of Universe 2.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Core Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Supreme Kai of Universe 2',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kahseral',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/5d/KahseralPT.png/revision/latest/scale-to-width-down/350?cb=20170823221229',
+      description:
+        'Kahseral (カーセラル Kāseraru) is a cyborg warrior and general of the Pride Troopers in Universe 11. He is also the pilot of the Pride Troopers Spaceship.',
+      debut: 'The Universes Go Into Action -- Each With Their Own Motives',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'General of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Dypso',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f4/Dyspoo.png/revision/latest/scale-to-width-down/199?cb=20170823113011',
+      description:
+        'Dyspo (ディスポ Disupo) is a member and captain[1]/vanguard commander of the Pride Troopers that participates in the Tournament of Power. Dyspo is arrogant, reckless, and has a strong sense of justice.',
+      debut: 'The Universes Go Into Action -- Each With Their Own Motives',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Blitz Captain of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Quitela',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/44/HakaishinQuitela.png/revision/latest/scale-to-width-down/350?cb=20170703013641',
+      description:
+        'Quitela (キテラ Kitera) is the God of Destruction of Universe 4. He is accompanied by his attendant and martial arts teacher Cognac.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 4',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Camparri',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c1/Compari.png/revision/latest/scale-to-width-down/350?cb=20170707164144',
+      description:
+        'Camparri (カンパーリ Kanpāri) is the Angel of Universe 3 and attendant and martial arts teacher of Mule. He appears in Dragon Ball Super during the Universe Survival Saga.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Rumsshi',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e0/Rumoosh1.png/revision/latest/scale-to-width-down/350?cb=20170706212753',
+      description:
+        'Rumsshi (ラムーシ Ramūshi) is the God of Destruction of Universe 10. He is accompanied by his attendant and martial arts teacher Kusu.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 10',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Araghne',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/a0/Screenshot_2017-08-07-17-49-16.png/revision/latest/scale-to-width-down/350?cb=20170808005109',
+      description:
+        'Araghne (アラグネ Aragune) is a space monster in Universe 11.',
+      debut: 'The Universes Go Into Action -- Each With Their Own Motives',
+      race: '',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Renso',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b1/Renso_Anime.png/revision/latest/scale-to-width-down/350?cb=20170430064956',
+      description:
+        'Renso (レンソウ Rensou) is a Saiyan from Universe 6. He is a retired captain of the Sadala Defense Forces and the mentor of Cabba. He is also the older brother of Caulifla, the leader of a group of Saiyan punks. He only appears in the anime.',
+      debut: 'Gohan and Piccolo Master and Pupil Clash in Max Training!',
+      race: 'Saiyan',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Sadala Defense Forces Captain',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Yurin',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/80/Yurin_DBS_Ep_089.png/revision/latest/scale-to-width-down/182?cb=20170921152148',
+      description:
+        'Yurin (ユーリン Yūrin) is a martial artist who went to the Crane School with Tien Shinhan and Chiaotzu in the past. She currently trains under Tien at the Tien-Shin Style Dojo.\n \n She initially appears as a minor antagonist during the Universe Survival Saga.',
+      debut:
+        'A Mysterious Beauty Appears! The Enigma of the Tien Shin-Style Dojo?',
+      race: 'Human-type Earthling',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Caulifla',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/6b/Caulif.png/revision/latest/scale-to-width-down/222?cb=20170721060144',
+      description:
+        "Caulifla (カリフラ Karifura) is a Saiyan from Universe 6 and a member of Team Universe 6 who participates in Zeno's Tournament of Power. She is the the leader of a gang of Saiyan criminals.",
+      debut: 'Gohan and Piccolo Master and Pupil Clash in Max Training!',
+      race: 'Saiyan',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Crime Boss',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kusu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/2f/Cus.png/revision/latest/scale-to-width-down/350?cb=20170706212905',
+      description:
+        'Kusu (クス Kusu) is the Guide Angel of Universe 10 and the attendant, and martial arts teacher of Rumsshi. She is the oldest child of the Grand Minister.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Guide Angel',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Murichim',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e9/Murichim.png/revision/latest/scale-to-width-down/350?cb=20170729032518',
+      description:
+        'Murichim (ムリチム Murichimu) is a warrior from Universe 10 and he and his comrades are the participants that Rumsshi selected to represent him, Gowasu, and Kusu in the Tournament of Power.',
+      debut: 'Staring Down the Wall to be Overcome Goku vs. Gohan',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Leader of Team Universe 10',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Mohito',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/16/Screenshot_2017-04-09-14-40-46-1.png/revision/latest/scale-to-width-down/350?cb=20170710181703',
+      description:
+        "Mohito (モヒイト Mohi'ito) is the Angel of Universe 9 and is the attendant and martial arts teacher of Sidra. He appears in Dragon Ball Super during the Universe Survival Saga.",
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Ribrianne',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/41/Brianne_at_Tournament.png/revision/latest/scale-to-width-down/226?cb=20170703160022',
+      description:
+        'Ribrianne (リブリアン Riburian), whose real name is Brianne de Chateau (ブリアン・デ・シャトー Burian de Shatō) in the anime, is a warrior from Universe 2, and the leader of the Kamikaze Fireballs.\n \n Ribrianne\'s base form "Brianne" was created for the anime. As such it does not appear in the manga.',
+      debut:
+        'Which Universe Will Win Their Place? The Mighty Warriors Gradually Assemble!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Idol',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Nigrissi',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/92/Nigrisshi.png/revision/latest/scale-to-width-down/350?cb=20170721052927',
+      description:
+        'Nigrissi (ニグリッシ Nigrisshi) is a modified warrior residing in Universe 3. He is a contestant in the Tournament of Power.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Narirama',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/ba/Dragon_Ball_Super_-_Narirama.png/revision/latest/scale-to-width-down/350?cb=20170721054311',
+      description:
+        'Narirama (ナリラーマ Narirāma) is a modified warrior residing in Universe 3. He is a contestant in the Tournament of Power.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Robot',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kale',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/df/Kale_01.png/revision/latest/scale-to-width-down/214?cb=20171227051452',
+      description:
+        "Kale[4] (ケール Kēru) is a Saiyan from Universe 6 and a member of Team Universe 6. Kale is Caulifla's best friend, sister-figure, and protégée. She is the latest Legendary Saiyan of Universe 6, a demon warrior who appears once every 1,000 years.",
+      debut:
+        'A Mysterious Beauty Appears! The Enigma of the Tien Shin-Style Dojo?',
+      race: 'Mutant Saiyan',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Gang Member',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'King Yemma',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/31/KingYemmaNV01.png/revision/latest/scale-to-width-down/350?cb=20100613153915',
+      description:
+        'King Yemma, known as Great King Enma (閻えん魔ま大だい王おう Enma Daiō) in the original Japanese version, is the king of all ogres who judge the dead. A line of souls leads to his office where he decides whether a soul goes to Heaven or Hell.',
+      debut: 'No Time Like the Present',
+      race: 'Ogre',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Judge',
+      series: ['Dragon Ball Z', 'Dragon Ball GT', 'Dragon Ball Super'],
+    },
+    {
+      name: 'Ganos',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b8/TU4_Ganos.png/revision/latest/scale-to-width-down/323?cb=20170702093603',
+      description:
+        'Ganos (ガノス Ganosu) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut: "You're Our Tenth Warrior! Goku Approaches Frieza!!",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Spy / Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: "Universe 9's Assassin Boss",
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/1f/AssassinLeader.png/revision/latest/scale-to-width-down/288?cb=20170823171010',
+      description:
+        "The Boss of Universe 9's Assassins is an assassin and leader of a group of assassins hired by Sidra and Roh in Universe 9 to kill Universe 7's Frieza.",
+      debut: 'The Evil Emperor Returns! A Reception from Mysterious Assassins?',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Assassin',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Arak',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c8/ArackU5.png/revision/latest/scale-to-width-down/350?cb=20170828113910',
+      description:
+        'Arak (アラク Araku) is the God of Destruction of Universe 5. He is accompanied by his attendant and martial arts teacher, Cukatail.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 5',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Iwan',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8b/IwenA.png/revision/latest/scale-to-width-down/281?cb=20170718043114',
+      description:
+        'Iwan (イワン Iwan) is the God of Destruction of Universe 1. He is accompanied by his attendant and martial arts teacher Awamo.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 1',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Liquiir',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e5/Screenshot_8.png/revision/latest/scale-to-width-down/337?cb=20170716093719',
+      description:
+        'Liquiir (リキール Rikīru) is the God of Destruction of Universe 8. He is accompanied by his attendant and martial arts teacher, Korn.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 8',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Korn',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/62/AngelB.png/revision/latest/scale-to-width-down/279?cb=20170716093733',
+      description:
+        'Korn (コルン Korun) is the Angel of Universe 8 and the attendant and martial arts teacher of Liquiir. Along with his siblings, he is a child of the Grand Minister.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Giin',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/2b/Screenshot_geene8.png/revision/latest/scale-to-width-down/244?cb=20170703014824',
+      description:
+        'Giin (ジーン Jīn) is the God of Destruction of Universe 12. He is accompanied by his attendant and martial arts teacher, Martinu.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 12',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Jiren',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/33/Jiren1.png/revision/latest/scale-to-width-down/350?cb=20170723224647',
+      description:
+        'Jiren (ジレン Jiren), also known as Jiren The Gray (灰色のジレン Haiiro no Jiren), is a member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being, Jiren is considered to be one of the strongest mortals in all of the multiverse, outclassing even Destroyer Gods.\n \n He is a quiet and honorable fighter, who believes in strength and justice. He previously did not trust anyone and never considered teamwork at all during battle, opting to fight enemies alone, and single-handedly almost always winning.',
+      debut: 'The Universes Go Into Action -- Each With Their Own Motives',
+      race: "Jiren's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Rylibeu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/86/Lili.png/revision/latest/scale-to-width-down/350?cb=20170729032807',
+      description:
+        'Rylibeu (リリベウ Riribeu) is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Napapa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/39/NapapaPerfil.png/revision/latest/scale-to-width-down/350?cb=20170817212026',
+      description:
+        'Napapa (ナパパ), known as the Magician of the Ring Verge (土俵際の魔術師 Dohyougiwa no Majutsushi), is a Rikīshi of Dohyōdoru and the Yokodūna, a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Nink',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e5/TU4_Nink.png/revision/latest/scale-to-width-down/350?cb=20170702093634',
+      description:
+        'Nink (ニンク Ninku) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Roselle',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/ab/Roselle.png/revision/latest/scale-to-width-down/350?cb=20170710155657',
+      description:
+        'Roselle (ローゼル Rōzeru) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Hop',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/3f/Hop.png/revision/latest/scale-to-width-down/350?cb=20170710155219',
+      description:
+        'Hop (ホップ Hoppu) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Chappil',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/92/Chappil.png/revision/latest/scale-to-width-down/350?cb=20170710161604',
+      description:
+        'Chappil (チャッピル Chappiru) is a warrior from Universe 9 and a member of Team Universe 9. He is a metallic dragon-like alien who is nicknamed the "Iron Skin Battler" due to his metal skin.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Drake alien',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Hyssop',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8f/Hyssop.png/revision/latest/scale-to-width-down/350?cb=20170710160336',
+      description:
+        'Hyssop (ヒソップ Hisoppu) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Comfrey',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e5/Comfrey.png/revision/latest/scale-to-width-down/350?cb=20170710161707',
+      description:
+        'Comfrey (コンフリー Konfurī) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Amphibian alien',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Oregano',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f6/Oregano1.png/revision/latest/scale-to-width-down/350?cb=20171222225819',
+      description:
+        'Oregano (オレガノ Oregano) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Sorrel',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/06/Sorrel.png/revision/latest/scale-to-width-down/350?cb=20170710161500',
+      description:
+        'Sorrel (ソレル Soreru) is a warrior from Universe 9 and a member of Team Universe 9.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Dium',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/7b/Jium.png/revision/latest/scale-to-width-down/350?cb=20170716092825',
+      description:
+        'Dium (ジウム Jiumu) is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Shosa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8f/Shousha.png/revision/latest/scale-to-width-down/350?cb=20170716092420',
+      description:
+        'Shosa (ショウサ Shōsa) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Wolf Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Majora',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/58/Majora_fires_blast.png/revision/latest/scale-to-width-down/350?cb=20170721022021',
+      description:
+        'Majora (マジョラ Majora) is a blind warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Wolf Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Methiop',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/96/Mechiop.png/revision/latest/scale-to-width-down/311?cb=20170729033100',
+      description:
+        'Methiop (メチオープ Mechiōpu, "Mechiorp") is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Catopesra',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/58/Katopesla.png/revision/latest/scale-to-width-down/350?cb=20171213003935',
+      description:
+        'Catopesra (カトペスラ Katopesura), also known as the Envoy of Justice, is a warrior from Universe 3 and a member of Team Universe 3. He is a policeman that protects his universe.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Policeman',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Harmira',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/51/20170308_190448.jpg/revision/latest/scale-to-width-down/333?cb=20170903170904',
+      description:
+        'Harmira (ハーミラ Hāmira) is a warrior from Universe 2 and a member of Team Universe 2. Harmira is a smart and calculative combatant.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Sniper',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Murisam',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/de/Murisam.png/revision/latest/scale-to-width-down/350?cb=20170723014521',
+      description:
+        'Murisam (ムリサーム Murisāmu) is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Jimizu',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/0/0c/TournamentofpowerU2Memb_%283%29.png/revision/latest/scale-to-width-down/350?cb=20170703033829',
+      description:
+        'Jimizu (ジーミズ Jīmizu) is a Yardrat from Universe 2 and a member of Team Universe 2.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Yardrat',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior Knight',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Vewon',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b8/Vuon2.PNG/revision/latest/scale-to-width-down/350?cb=20170822190139',
+      description:
+        'Vewon (ブーオン Būon) is a member of the Pride Troopers who participates in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Tupper',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/56/Tupper.png/revision/latest/scale-to-width-down/350?cb=20170914120713',
+      description:
+        'Tupper (タッパー Tappā) is a member of the Pride Troopers who participates in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zoire',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/cb/Zoiray.png/revision/latest/scale-to-width-down/350?cb=20170823221854',
+      description:
+        'Zoire (ゾイレー Zoirē) is a member of the Pride Troopers who participates in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Cocotte',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/ac/Cocotte-0.png/revision/latest/scale-to-width-down/350?cb=20170730014801',
+      description:
+        'Cocotte (ココット Kokotto) is a member of the Pride Troopers who participates in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kettle',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/5b/Kettle.png/revision/latest/scale-to-width-down/350?cb=20170823222016',
+      description:
+        'Kettle (ケットル Kettoru) is a member of the Pride Troopers who participates in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Za Priccio',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/86/The_Preecho.png/revision/latest/scale-to-width-down/350?cb=20170903060654',
+      description:
+        'Za Priccio (ザ・プリーチョ Za Purīcho) is a warrior from Universe 3 and a member of Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Cyborg',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kakunsa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/58/Sanka2.png/revision/latest/scale-to-width-down/238?cb=20170810105434',
+      description:
+        'Kakunsa (カクンサ Kakunsa), whose real name is Sanka Coo (サンカ・クー Sanka Kū) in the anime, is a warrior from Universe 2 and a member of the Kamikaze Fireballs.\n \n In the manga, Kakunsa\'s base form "Sanka Coo" does not exist.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Kamikaze Fireballs',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Roasie',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/1a/Suunewpiic.png/revision/latest/scale-to-width-down/336?cb=20170810105758',
+      description:
+        'Roasie (ロージィ Rōjī), whose real name is Sous Roas (スー・ロース Sū Rōsu) in the anime, is a warrior from Universe 2 and a member of the Kamikaze Fireballs.\n \n In the manga, Roasie\'s base form "Sous Roas" does not exist.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Kamikaze Fireballs',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Rabanra',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/33/OrangeDemon.png/revision/latest/scale-to-width-down/350?cb=20170703035014',
+      description:
+        'Rabanra (ラバンラ Rabanra) is a warrior from Universe 2, a member of Team Universe 2, and an attendant to the Kamikaze Fireballs.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Dyrasem',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/dc/U10_Prettyboy.png/revision/latest/scale-to-width-down/350?cb=20170804074605',
+      description:
+        'Dyrasem (ジラセン Jirasen) is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Paparoni',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b3/Paparonii.png/revision/latest/scale-to-width-down/350?cb=20171227023242',
+      description:
+        'Dr. Paparoni (パパロニ Paparoni) is a warrior from Universe 3 and a member of Team Universe 3. He controls all of the artificially intelligent machine lifeforms on Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Cyborg',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Scientist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zarbuto',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/c/c3/Zarbuto2.png/revision/latest/scale-to-width-down/330?cb=20170810112228',
+      description:
+        'Zarbuto (ザーブト Zābuto) is a warrior from Universe 2, a member of Team Universe 2, and an attendant of the Kamikaze Fireballs.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Tuffle',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zirloin',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/6/6a/TournamentofpowerU2Memb_%282%29.png/revision/latest/scale-to-width-down/280?cb=20170703035519',
+      description:
+        'Zirloin (ザーロイン Zāroin) is a warrior from Universe 2, a member of Team Universe 2, and an attendant to the Kamikaze Fireballs.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Tuffle',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Bikal',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/59/Vikal.png/revision/latest/scale-to-width-down/350?cb=20170810111823',
+      description:
+        'Bikal (ビカル Bikaru) is a warrior from Universe 2 and a member of Team Universe 2.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Sour',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/fe/Unknown_Angel.png/revision/latest/scale-to-width-down/269?cb=20170214103026',
+      description:
+        'Sour (サワア Sawā) is the Angel of Universe 2 and attendant and martial arts teacher of Heles.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: 'Angel',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Attendant',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Rubalt',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/5e/Rbalt.png/revision/latest/scale-to-width-down/287?cb=20170813025130',
+      description:
+        'Rubalt (ルバルト Rubaruto) is a soldier from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Soldier',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Obni',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/9/9f/U10Green.png/revision/latest/scale-to-width-down/350?cb=20170729040606',
+      description:
+        'Obni (オブニ Obuni) is a warrior from Universe 10 and a member of Team Universe 10. Obni is brave, respectful, and likes to challenge himself.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: "Ginyu's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Zircor',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/8a/Jilcol_Focus.png/revision/latest/scale-to-width-down/182?cb=20170814042846',
+      description:
+        'Zircor (ジルコル Jirukoru) is a warrior from Universe 10 and a member of Team Universe 10.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: "K'nsi",
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/ab/U11kunsi.png/revision/latest/scale-to-width-down/350?cb=20170823222156',
+      description:
+        "K'nsi (クンシー Kunshī) is a member of the Pride Troopers who participates in the Tournament of Power.",
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Member of the Pride Troopers',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Biarra',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d8/TournamentofpowerU3Memb_%282%29.png/revision/latest/scale-to-width-down/350?cb=20170703163931',
+      description:
+        'Biarra (ビアラ Biara) is a warrior from Universe 3 and a member of Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Android',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Xiangca',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/f/f3/Shantsaa.png/revision/latest/scale-to-width-down/350?cb=20171221031538',
+      description:
+        'Xiangca (シャンツァ Shantsa) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Caway',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/43/Pinkhairedwarrior.png/revision/latest/scale-to-width-down/350?cb=20170710180925',
+      description:
+        'Caway (キャウェイ Kyauei) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Maji-Kayo',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/27/U3C.png/revision/latest/scale-to-width-down/147?cb=20170703164153',
+      description:
+        'Maji-Kayo (マジ＝カーヨ Maji-Kāyo) is a warrior from Universe 3 and a member of Team Universe 3. Maji Kayo is a cunning and sadistic warrior.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Dercori',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/d/d5/Darkori1.png/revision/latest/scale-to-width-down/284?cb=20170827193943',
+      description:
+        'Dercori (ダーコリ Dākori) is a warrior from Universe 4 and a member of Team Universe 4 who uses mystical talismans in battle.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior / Talisman User',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Dr. Rota',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/3c/DrRota.png/revision/latest/scale-to-width-down/350?cb=20170903053508',
+      description:
+        'Dr. Rota (Dr.ロタ Dokutā Rota) is a warrior from Universe 6 and a member of Team Universe 6.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Prum',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/5/53/PrumU2.png/revision/latest/scale-to-width-down/350?cb=20170923051754',
+      description:
+        'Prum (プラン Puran) is a warrior from Universe 2 and a member of Team Universe 2.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: "Prum's race",
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Borareta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/2/2b/Croppedborareta.png/revision/latest/scale-to-width-down/350?cb=20170924013704',
+      description:
+        'Borareta (ボラレータ Borarēta) is a warrior from Universe 3 and a member of Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Robot',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Koitsukai',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/8/80/KoitsukaiProfile.png/revision/latest/scale-to-width-down/350?cb=20171223061235',
+      description:
+        'Koitsukai (コイツカイ Koitsukai) is a warrior from Universe 3 and a member of Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Robot',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Pancéa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/7/73/Panceaa.png/revision/latest/scale-to-width-down/350?cb=20171227044131',
+      description:
+        'Pancéa (パンチア Panchia) is a warrior from Universe 3 and a member of Team Universe 3.',
+      debut: 'A State of Emergency! Failure to Reach Ten Members!',
+      race: 'Robot',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Pilina',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/ef/Pirina1.png/revision/latest/scale-to-width-down/350?cb=20171016071816',
+      description:
+        'Pilina (ピリナ Pirina) is a Namekian from Universe 6 and a member of Team Universe 6 in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Namekian',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Saonel',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b7/Saonel1.png/revision/latest/scale-to-width-down/350?cb=20171016071456',
+      description:
+        'Saonel (サオネル Saoneru) is a Namekian from Universe 6 and a member of Team Universe 6 in the Tournament of Power.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: 'Namekian',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Monna',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/4/4b/TU4_Fat.png/revision/latest/scale-to-width-down/350?cb=20170702093922',
+      description:
+        'Monna (モンナ Monna) is a warrior from Universe 4 and a member of Team Universe 4.',
+      debut:
+        'The Time Has Come! To the Null Realm with the Universes on the Line!',
+      race: '',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Kefla',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/af/Kefla_01.png/revision/latest/scale-to-width-down/255?cb=20171105024801',
+      description:
+        'Kefla (ケフラ Kefura) is the Potara fusion of Kale and Caulifla.',
+      debut: 'Bloodcurdling! The Explosive Birth of a New Super Warrior!',
+      race: '1/2 Mutant Saiyan',
+      gender: 'Female',
+      height: '',
+      weight: '',
+      occupation: 'Martial Artist',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Gamisalas',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/a9/Gamisaras-cropped.png/revision/latest/scale-to-width-down/350?cb=20171210210108',
+      description:
+        'Gamisalas (ガミサラス Gamisarasu) is an invisible warrior from Universe 4 and a member of Team Universe 4.',
+      debut: 'Unavoidable? The Ferocity of a Stealth Attack!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Gamisalas',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/a/a9/Gamisaras-cropped.png/revision/latest/scale-to-width-down/350?cb=20171210210108',
+      description:
+        'Gamisalas (ガミサラス Gamisarasu) is an invisible warrior from Universe 4 and a member of Team Universe 4.',
+      debut: 'Unavoidable? The Ferocity of a Stealth Attack!',
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Damom',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/3/3c/DamomDBS.png/revision/latest/scale-to-width-down/350?cb=20171210202209',
+      description:
+        'Damom (ダモン "Damon") is a tiny warrior of Universe 4 and a member of Team Universe 4.',
+      debut: 'Quirky Competitors',
+      race: 'Bug Person',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Koicéareta',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/b/b2/Unknown-0.png/revision/latest/scale-to-width-down/350?cb=20171217031212',
+      description:
+        "Koicéareta (コイチアレータ Koichiarēta) is the result of Plan X: the merging of Borareta, Koitsukai, and Pancéa. He is Paparoni's masterpiece and the apparent trump card of Team Universe 3. He is an anime only character.",
+      debut:
+        "A Perfect Survival Strategy! The 3rd Universe's Menacing Assassin!",
+      race: 'Android',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: 'Warrior',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Agnilasa',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/1/1e/Anirazaa.png/revision/latest/scale-to-width-down/338?cb=20171227022453',
+      description:
+        'Agnilasa (アニラーザ Anirāza) is the result of the fusion between several members of Team Universe 3.\n \n In the Universal Conflict Saga of the Dragon Ball Heroes game, Agnilasa appears as its own entity, not as a fusion of others.',
+      debut:
+        "All-Out War! The Ultimate Four-Fold Union vs. the 7th Universe's Total Offensive!",
+      race: 'Android',
+      gender: '',
+      height: '',
+      weight: '',
+      occupation: '',
+      series: ['Dragon Ball Super'],
+    },
+    {
+      name: 'Mule',
+      image_url:
+        'https://static.wikia.nocookie.net/dragonball/images/e/e7/Mule.png/revision/latest/scale-to-width-down/350?cb=20171224231110',
+      description:
+        'Mule (ミュール Myūru)[2] is an imp-like creature and the pilot of the old robot Mosco (モスコ Mosuko). Through Mosco, he acts as the God of Destruction of Universe 3. He is accompanied by his attendant and martial arts teacher Camparri.',
+      debut:
+        "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      race: '',
+      gender: 'Male',
+      height: '',
+      weight: '',
+      occupation: 'God of Destruction of Universe 3',
+      series: ['Dragon Ball Super'],
+    },
   ],
 };
